@@ -1,0 +1,6 @@
+@SistemaMottuAPI_HostAddress = http://localhost:5262
+
+GET {{SistemaMottuAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
