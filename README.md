@@ -96,7 +96,7 @@ Antes de executar o projeto, você deve configurar suas credenciais do Oracle no
 **1. Clone o repositório:**
 ```bash
 git clone https://github.com/LuccasAlencar/MottuVisionC.git
-cd [NOME_DA_PASTA_DO_PROJETO]
+cd [LOCAL DO PROJETO]
 ```
 
 **2. Inicialização completa (recomendado):**
